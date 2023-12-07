@@ -14,9 +14,6 @@ seeking a quick reference, this project provides a solid foundation for creating
    - [Installation](#installation)
    - [Configuration](#configuration)
 2. [Usage](#usage)
-3. [Endpoints](#endpoints)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Getting Started
 
